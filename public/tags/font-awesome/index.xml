@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Font Awesome - Tag - My New Hugo Project</title>
+    <link>http://localhost:1313/tags/font-awesome/</link>
+    <description>My New Hugo Project</description>
+    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Nov 2025 08:30:39 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/font-awesome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Font Awesome Test</title>
+      <link>http://localhost:1313/posts/fontawesome-test/</link>
+      <pubDate>Fri, 28 Nov 2025 08:30:39 +0800</pubDate>
+      <guid>http://localhost:1313/posts/fontawesome-test/</guid>
+      <category domain="http://localhost:1313/categories/markdown/">Markdown</category>
+      <description>&lt;p&gt;Test for rendering Font Awesome icons.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

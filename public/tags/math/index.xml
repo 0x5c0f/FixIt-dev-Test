@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Math - Tag - My New Hugo Project</title>
+    <link>http://localhost:1313/tags/math/</link>
+    <description>My New Hugo Project</description>
+    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Sep 2025 21:05:17 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KaTeX Test</title>
+      <link>http://localhost:1313/posts/katex-test/</link>
+      <pubDate>Mon, 15 Sep 2025 21:05:17 +0800</pubDate>
+      <guid>http://localhost:1313/posts/katex-test/</guid>
+      <category domain="http://localhost:1313/categories/markdown/">Markdown</category>
+      <description>&lt;p&gt;Testing $\KaTeX$ rendering in FixIt theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MathJax Test</title>
+      <link>http://localhost:1313/posts/mathjax-test/</link>
+      <pubDate>Mon, 15 Sep 2025 21:05:17 +0800</pubDate>
+      <guid>http://localhost:1313/posts/mathjax-test/</guid>
+      <category domain="http://localhost:1313/categories/markdown/">Markdown</category>
+      <description>&lt;p&gt;Testing $\text{MathJax}$ rendering in FixIt theme.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

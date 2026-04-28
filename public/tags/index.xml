@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Project</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on My New Hugo Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Apr 2026 11:40:06 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Link</title>
+      <link>http://localhost:1313/tags/link/</link>
+      <pubDate>Fri, 10 Apr 2026 11:40:06 +0800</pubDate>
+      <guid>http://localhost:1313/tags/link/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Task List</title>
+      <link>http://localhost:1313/tags/task-list/</link>
+      <pubDate>Sat, 28 Feb 2026 08:54:02 +0800</pubDate>
+      <guid>http://localhost:1313/tags/task-list/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Tabs</title>
+      <link>http://localhost:1313/tags/code-tabs/</link>
+      <pubDate>Sun, 25 Jan 2026 07:50:22 +0800</pubDate>
+      <guid>http://localhost:1313/tags/code-tabs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>File-Tree</title>
+      <link>http://localhost:1313/tags/file-tree/</link>
+      <pubDate>Sat, 10 Jan 2026 03:00:48 +0800</pubDate>
+      <guid>http://localhost:1313/tags/file-tree/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code Block</title>
+      <link>http://localhost:1313/tags/code-block/</link>
+      <pubDate>Fri, 28 Nov 2025 15:16:35 +0800</pubDate>
+      <guid>http://localhost:1313/tags/code-block/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Font Awesome</title>
+      <link>http://localhost:1313/tags/font-awesome/</link>
+      <pubDate>Fri, 28 Nov 2025 08:30:39 +0800</pubDate>
+      <guid>http://localhost:1313/tags/font-awesome/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>APlayer</title>
+      <link>http://localhost:1313/tags/aplayer/</link>
+      <pubDate>Tue, 21 Oct 2025 11:00:04 +0800</pubDate>
+      <guid>http://localhost:1313/tags/aplayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Json</title>
+      <link>http://localhost:1313/tags/json/</link>
+      <pubDate>Tue, 14 Oct 2025 12:29:06 +0800</pubDate>
+      <guid>http://localhost:1313/tags/json/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Script</title>
+      <link>http://localhost:1313/tags/script/</link>
+      <pubDate>Tue, 16 Sep 2025 09:57:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/script/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Style</title>
+      <link>http://localhost:1313/tags/style/</link>
+      <pubDate>Tue, 16 Sep 2025 09:57:28 +0800</pubDate>
+      <guid>http://localhost:1313/tags/style/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Math</title>
+      <link>http://localhost:1313/tags/math/</link>
+      <pubDate>Mon, 15 Sep 2025 21:05:17 +0800</pubDate>
+      <guid>http://localhost:1313/tags/math/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tabs</title>
+      <link>http://localhost:1313/tags/tabs/</link>
+      <pubDate>Tue, 09 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/tabs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>UI Components</title>
+      <link>http://localhost:1313/tags/ui-components/</link>
+      <pubDate>Tue, 09 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/ui-components/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Admonition</title>
+      <link>http://localhost:1313/tags/admonition/</link>
+      <pubDate>Fri, 05 Sep 2025 16:57:58 +0800</pubDate>
+      <guid>http://localhost:1313/tags/admonition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Alerts</title>
+      <link>http://localhost:1313/tags/alerts/</link>
+      <pubDate>Fri, 05 Sep 2025 16:57:58 +0800</pubDate>
+      <guid>http://localhost:1313/tags/alerts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diagrams</title>
+      <link>http://localhost:1313/tags/diagrams/</link>
+      <pubDate>Wed, 20 Aug 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/diagrams/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mermaid</title>
+      <link>http://localhost:1313/tags/mermaid/</link>
+      <pubDate>Wed, 20 Aug 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/mermaid/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Color Preview</title>
+      <link>http://localhost:1313/tags/color-preview/</link>
+      <pubDate>Sun, 17 Aug 2025 17:20:00 +0800</pubDate>
+      <guid>http://localhost:1313/tags/color-preview/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Encryption</title>
+      <link>http://localhost:1313/tags/encryption/</link>
+      <pubDate>Sat, 21 May 2022 22:31:22 +0800</pubDate>
+      <guid>http://localhost:1313/tags/encryption/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

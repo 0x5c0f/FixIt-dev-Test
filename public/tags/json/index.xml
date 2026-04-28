@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Json - Tag - My New Hugo Project</title>
+    <link>http://localhost:1313/tags/json/</link>
+    <description>My New Hugo Project</description>
+    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Oct 2025 12:29:06 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/json/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JSON Viewer Test</title>
+      <link>http://localhost:1313/posts/json-viewer-test/</link>
+      <pubDate>Tue, 14 Oct 2025 12:29:06 +0800</pubDate>
+      <guid>http://localhost:1313/posts/json-viewer-test/</guid>
+      <category domain="http://localhost:1313/categories/markdown/">Markdown</category>
+      <description>&lt;p&gt;Testing JSON viewer in FixIt theme.&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;{&#xA;  &amp;#34;foo&amp;#34;: &amp;#34;bar&amp;#34;&#xA;}&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+  </channel>
+</rss>

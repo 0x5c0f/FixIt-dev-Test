@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UI Components - Tag - My New Hugo Project</title>
+    <link>http://localhost:1313/tags/ui-components/</link>
+    <description>My New Hugo Project</description>
+    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Sep 2025 10:00:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ui-components/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tabs Comprehensive Test Cases</title>
+      <link>http://localhost:1313/posts/tabs-comprehensive-test/</link>
+      <pubDate>Tue, 09 Sep 2025 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/tabs-comprehensive-test/</guid>
+      <category domain="http://localhost:1313/categories/shortcodes/">Shortcodes</category>
+      <description>&lt;p&gt;Testing various configurations and nested scenarios for the Tabs shortcode.&lt;/p&gt;&#xA;&lt;tab-container default-tab=&#34;0&#34; placement=&#34;top&#34; type=&#34;underline&#34;&gt;&lt;button class=&#34;tab-button&#34; type=&#34;button&#34; role=&#34;tab&#34; id=&#34;tab-id-29&#34; aria-selected=&#34;true&#34;&gt;Test Cases&lt;/button&gt;&lt;button class=&#34;tab-button&#34; type=&#34;button&#34; role=&#34;tab&#34; id=&#34;tab-id-30&#34; aria-selected=&#34;false&#34;&gt;Nested Tabs&lt;/button&gt;&#xA;&lt;div role=&#34;tabpanel&#34; aria-labelledby=&#34;tab-id-29&#34; class=&#34;tab-panel&#34;&gt;See Types section for various test cases.&lt;/div&gt;&#xA;&lt;div role=&#34;tabpanel&#34; aria-labelledby=&#34;tab-id-30&#34; class=&#34;tab-panel&#34;&gt;See Nested Tabs section for examples.&lt;/div&gt;&#xA;&lt;/tab-container&gt;</description>
+    </item>
+  </channel>
+</rss>

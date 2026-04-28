@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Task List - Tag - My New Hugo Project</title>
+    <link>http://localhost:1313/tags/task-list/</link>
+    <description>My New Hugo Project</description>
+    <generator>Hugo 0.159.0 &amp; FixIt v0.4.5</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Feb 2026 08:54:02 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/task-list/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Task List Rendering Test</title>
+      <link>http://localhost:1313/posts/task-list-test/</link>
+      <pubDate>Sat, 28 Feb 2026 08:54:02 +0800</pubDate>
+      <guid>http://localhost:1313/posts/task-list-test/</guid>
+      <category domain="http://localhost:1313/categories/markdown/">Markdown</category>
+      <description>&lt;p&gt;This post tests the rendering of task lists in Markdown.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
