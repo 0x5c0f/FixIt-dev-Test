@@ -3,3 +3,45 @@ locale = 'en-us'
 title = 'My New Hugo Project'
 
 theme = ["FixIt"]
+
+[params.cms]
+media_folder = "static/images"
+public_folder = "/images"
+
+[[params.cms.collections]]
+name = "posts"
+label = "Blog Posts"
+label_singular = "Post"
+folder = "content/posts"
+create = true
+delete = true
+extension = "md"
+format = "yaml-frontmatter"
+slug = "{{slug}}"
+
+[[params.cms.collections.fields]]
+name = "title"
+label = "Title"
+widget = "string"
+
+[[params.cms.collections.fields]]
+name = "date"
+label = "Publish Date"
+widget = "datetime"
+
+[[params.cms.collections.fields]]
+name = "tags"
+label = "Tags"
+widget = "list"
+required = false
+
+[[params.cms.collections.fields]]
+name = "categories"
+label = "Categories"
+widget = "list"
+required = false
+
+[[params.cms.collections.fields]]
+name = "body"
+label = "Body"
+widget = "markdown"
