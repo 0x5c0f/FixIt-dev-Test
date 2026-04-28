@@ -1,9 +1,9 @@
 ---
-date: '2026-04-28'
 tags:
 - api
 - test
-title: API Test Post
+- updated
+title: API Test Post [Updated]
 ---
 
-This post was created via the CMS API.
+Updated content.
